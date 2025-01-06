@@ -1,3 +1,10 @@
+# json-server
+
+make sure you have json-server@0.17.4 globally installed in order to run this code
+
+- run json-server with db.json file
+- run this app using the dev cmd
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,3 +55,4 @@ export default tseslint.config({
   },
 })
 ```
+
